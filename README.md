@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karan-meher&label=Profile%20views&color=0e75b6&style=flat" alt="karan-meher" /> </p>
 
-- ⚡ I’m good at **SQL, Python, Excel, Power BI & Tableau**
+- ⚡ I’m good at **SQL, Python, Excel, Power BI, Tableau & Machine Learning**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently upskilling **Advanced Artificial intelligence & Production-level AI engineering**
 
 - 📫 Reach me at **karanmeherkaran@gmail.com**
 
